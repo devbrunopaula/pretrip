@@ -115,6 +115,6 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
-### Authors
+### Authorss
 
 * [Allen](https://github.com/allen-n)
